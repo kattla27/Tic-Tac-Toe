@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHquyX7vES3Zbyq4KUcVm2tcAEIWYlaTNjcIIsx/lLPIxCevwL03pweMz4tkDkECghmhXMiyXznJlfn6umBoLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmad\\source\\repos\\Tictactoe\\Tictactoe\\Tictactoe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
